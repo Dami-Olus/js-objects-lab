@@ -112,6 +112,8 @@ const talkingHeadsAlbums = [
 
 // Exercise 8:  Using the talkingHeadsAlbums array, assign album5's labels property to a variable named labels
 
+let label = talkingHeadsAlbums[4].label
+
 
 
 
