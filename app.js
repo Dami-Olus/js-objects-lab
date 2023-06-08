@@ -118,7 +118,7 @@ let labels = talkingHeadsAlbums[4].albumDetails.labels
 
 
 // Exercise 9:  Using the talkingHeadsAlbums array, assign album7's released property to album6's released property
-album7.released = talkingHeadsAlbums[5].released
+album6.albumDetails.released = talkingHeadsAlbums[6].albumDetails.released
 
 
 
